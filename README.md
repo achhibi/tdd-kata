@@ -1,7 +1,7 @@
 
 
 
-####TDD is based on these 3 steps (Red, Green, Refactor):
+#### TDD is based on these 3 steps (Red, Green, Refactor):
 
 * Write a Failing Test - Understand the (user) requirements/story well enough to write a test for what you expect. (the test should fail initially - hence it being "Red")
 
